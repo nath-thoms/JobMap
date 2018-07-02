@@ -10,7 +10,7 @@ class Navbar extends Component {
                 <Container>
                   <Menu.Item header>
                     <img src="assets/logo.png" alt="logo" />
-                    Re-vents
+                    jobs.Map( )
                   </Menu.Item>
                   <Menu.Item name="Events" />
                   <Menu.Item>
